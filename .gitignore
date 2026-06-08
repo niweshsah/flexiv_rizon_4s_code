@@ -1,0 +1,26 @@
+# ROS2
+build/
+install/
+log/
+
+# IDE
+.vscode/
+.idea/
+
+# Colcon build folders anywhere
+**/build/
+**/install/
+**/log/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Linux
+*~
+*.swp
